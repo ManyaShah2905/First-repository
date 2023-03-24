@@ -1,0 +1,5 @@
+0 No error
+1 NULL value
+2 Element Size is negative or zero
+3 Unable to allocate memory
+4 Stack is empty
